@@ -1,0 +1,34 @@
+Total L1 Loss: 0.04221754807692308
+ 
+Indices of bad pixels: 
+In band: 1 index: [1,36] --> Corresponding correct value is: 689
+In band: 2 index: [2,6] --> Corresponding correct value is: 696
+In band: 2 index: [2,16] --> Corresponding correct value is: 712
+In band: 1 index: [6,11] --> Corresponding correct value is: 706
+In band: 1 index: [7,25] --> Corresponding correct value is: 779
+In band: 2 index: [9,31] --> Corresponding correct value is: 763
+In band: 1 index: [10,11] --> Corresponding correct value is: 733
+In band: 3 index: [11,26] --> Corresponding correct value is: 729
+In band: 2 index: [14,35] --> Corresponding correct value is: 697
+In band: 1 index: [24,7] --> Corresponding correct value is: 704
+In band: 1 index: [25,27] --> Corresponding correct value is: 722
+In band: 3 index: [28,34] --> Corresponding correct value is: 740
+In band: 1 index: [29,15] --> Corresponding correct value is: 625
+In band: 1 index: [29,51] --> Corresponding correct value is: 629
+In band: 2 index: [30,12] --> Corresponding correct value is: 736
+In band: 3 index: [31,6] --> Corresponding correct value is: 681
+In band: 3 index: [31,59] --> Corresponding correct value is: 661
+In band: 3 index: [38,3] --> Corresponding correct value is: 624
+In band: 3 index: [43,30] --> Corresponding correct value is: 625
+In band: 1 index: [44,27] --> Corresponding correct value is: 644
+In band: 1 index: [45,30] --> Corresponding correct value is: 669
+In band: 2 index: [47,43] --> Corresponding correct value is: 642
+In band: 2 index: [49,2] --> Corresponding correct value is: 359
+In band: 2 index: [51,38] --> Corresponding correct value is: 543
+In band: 2 index: [52,28] --> Corresponding correct value is: 422
+In band: 3 index: [53,15] --> Corresponding correct value is: 381
+In band: 2 index: [54,8] --> Corresponding correct value is: 327
+In band: 3 index: [58,9] --> Corresponding correct value is: 319
+In band: 1 index: [59,24] --> Corresponding correct value is: 357
+In band: 3 index: [60,32] --> Corresponding correct value is: 348
+In band: 1 index: [61,37] --> Corresponding correct value is: 384
